@@ -55,17 +55,6 @@ This repository contains my notes, implementations, practice problems, and progr
 
 ---
 
-## 📊 My Progress
-
-```text
-Overall Progress
-
-[░░░░░░░░░░░░░░░░░░░░] 0%
-
-Topics Completed : 0 / 12
-Problems Solved  : 0
-Days Completed   : 0
-```
 
 ### 🧩 Problem Counter
 
@@ -80,15 +69,9 @@ Days Completed   : 0
 
 ## 🔥 DSA Streak
 
-```text
-🔥 Current Streak : 0 Days
-🏆 Best Streak    : 0 Days
-📅 Daily Goal     : 1+ Problem
-```
 
-> **Consistency > Motivation**
 
----
+
 
 ## 🛠️ Tools & Technologies
 
