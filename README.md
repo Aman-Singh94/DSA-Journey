@@ -168,7 +168,7 @@ DSA-Journey/
 
 <p align="center">
 
-📧 **Email:** [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
+📧 **Email:** [YOUR_EMAIL@gmail.com](mailto:as5645512@gmail.com)
 
 </p>
 
