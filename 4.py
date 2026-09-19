@@ -1,13 +1,18 @@
 #Armstrong Number Explained 
-a=int(input("enter a number "))
-num=a
-r=0
-while num>0:
-    id=num%10
-    r=(r*10)+id
-    num=num//10
+a = int(input("enter a number "))
 
-if a==r:
-    print("it is armstrong number ")  
-else:
-    print("it is not a armstrong number")
+num = a
+
+t = 0
+
+l = len(str(a))
+
+while num > 0:
+
+    id = num % 10
+
+    t = t + (id ** l)
+
+    num = num // 10
+    t == a
+print(t)
