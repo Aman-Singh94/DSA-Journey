@@ -92,7 +92,7 @@ I am building my DSA skills step-by-step by solving problems, understanding conc
 
 | Topic               | Problems |
 | ------------------- | -------: |
-| Arrays              |        0 |
+| Arrays              |        1 |
 | Strings             |        0 |
 | Linked List         |        0 |
 | Stack               |        0 |
@@ -104,6 +104,7 @@ I am building my DSA skills step-by-step by solving problems, understanding conc
 | Trees               |        0 |
 | Graphs              |        0 |
 | Dynamic Programming |        0 |
+| other               |        6 |
 
 <!-- TOPICS:END -->
 
